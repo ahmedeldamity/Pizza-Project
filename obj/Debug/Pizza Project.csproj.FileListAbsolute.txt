@@ -1,0 +1,30 @@
+D:\C#\Pizza Project\Pizza Project\bin\Debug\Pizza Project.exe.config
+D:\C#\Pizza Project\Pizza Project\bin\Debug\Pizza Project.exe
+D:\C#\Pizza Project\Pizza Project\bin\Debug\Pizza Project.pdb
+D:\C#\Pizza Project\Pizza Project\obj\Debug\Pizza Project.csproj.AssemblyReference.cache
+D:\C#\Pizza Project\Pizza Project\obj\Debug\Pizza_Project.Form1.resources
+D:\C#\Pizza Project\Pizza Project\obj\Debug\Pizza_Project.Properties.Resources.resources
+D:\C#\Pizza Project\Pizza Project\obj\Debug\Pizza Project.csproj.GenerateResource.cache
+D:\C#\Pizza Project\Pizza Project\obj\Debug\Pizza Project.csproj.CoreCompileInputs.cache
+D:\C#\Pizza Project\Pizza Project\obj\Debug\Pizza Project.exe
+D:\C#\Pizza Project\Pizza Project\obj\Debug\Pizza Project.pdb
+D:\C#\New folder\Pizza Project\bin\Debug\Pizza Project.exe.config
+D:\C#\New folder\Pizza Project\bin\Debug\Pizza Project.exe
+D:\C#\New folder\Pizza Project\bin\Debug\Pizza Project.pdb
+D:\C#\New folder\Pizza Project\obj\Debug\Pizza Project.csproj.AssemblyReference.cache
+D:\C#\New folder\Pizza Project\obj\Debug\Pizza_Project.Properties.Resources.resources
+D:\C#\New folder\Pizza Project\obj\Debug\Pizza Project.csproj.GenerateResource.cache
+D:\C#\New folder\Pizza Project\obj\Debug\Pizza Project.csproj.CoreCompileInputs.cache
+D:\C#\New folder\Pizza Project\obj\Debug\Pizza Project.exe
+D:\C#\New folder\Pizza Project\obj\Debug\Pizza Project.pdb
+D:\C#\New folder\Pizza Project\obj\Debug\Pizza_Project.mainform.resources
+D:\C#\Pizza Project\bin\Debug\Pizza Project.exe.config
+D:\C#\Pizza Project\bin\Debug\Pizza Project.exe
+D:\C#\Pizza Project\bin\Debug\Pizza Project.pdb
+D:\C#\Pizza Project\obj\Debug\Pizza Project.csproj.AssemblyReference.cache
+D:\C#\Pizza Project\obj\Debug\Pizza_Project.mainform.resources
+D:\C#\Pizza Project\obj\Debug\Pizza_Project.Properties.Resources.resources
+D:\C#\Pizza Project\obj\Debug\Pizza Project.csproj.GenerateResource.cache
+D:\C#\Pizza Project\obj\Debug\Pizza Project.csproj.CoreCompileInputs.cache
+D:\C#\Pizza Project\obj\Debug\Pizza Project.exe
+D:\C#\Pizza Project\obj\Debug\Pizza Project.pdb
